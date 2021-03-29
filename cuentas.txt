@@ -1,0 +1,8 @@
+cuenta,nombre,balance,pin
+749885605,Andrea carolina,20000,5251
+896244122,alfonso rojas,5000,6570
+792410512,pepito dicaprio,75005,9710
+541256939,natalia mendonza,50500,2245
+854123655,lisbeth alvarez,200412,5570 
+
+199901999019990
